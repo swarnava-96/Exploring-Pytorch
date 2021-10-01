@@ -19,5 +19,7 @@ A tensor is a generalization of vectors and matrices and is easily understood as
 Tensors are a type of data structure used in linear algebra, and like vectors and matrices, you can calculate arithmetic operations with tensors.
 
 ### Getting started with Pytorch:
-```1. Converting Numpy arrays into Pytorch tensors
-2. Arithmatic Operations```
+```
+1. Converting Numpy arrays into Pytorch tensors
+2. Arithmatic Operations
+```
