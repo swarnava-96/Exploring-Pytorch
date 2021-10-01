@@ -12,7 +12,7 @@
 #### 5. Check whether the installation happened properly or not.
 ![image](https://user-images.githubusercontent.com/75041273/135676171-df4cd6b7-7a81-4b2d-9f55-369efd7ec7ba.png)
 
-### Getting started with Pytorch:
+## Getting started with Pytorch:
 Topics covered:
 ```
 1. Converting Numpy arrays into Pytorch tensors
