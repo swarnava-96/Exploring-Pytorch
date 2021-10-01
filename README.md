@@ -1,6 +1,6 @@
 # Exploring-Pytorch
 
-### Installation Setup:
+## Installation Setup:
 ##### 1. First create a virtual environment by using this command:
 ![image](https://user-images.githubusercontent.com/75041273/135676344-cc2d6c79-7da4-42c6-9389-882fd3481435.png)
 ##### 2. Activate the environment using the below command:
