@@ -1,5 +1,7 @@
 # Exploring-Pytorch
 
+##### Documentation page: https://pytorch.org/
+
 ## Installation Setup:
 ##### 1. First create a virtual environment by using this command:
 ![image](https://user-images.githubusercontent.com/75041273/135676344-cc2d6c79-7da4-42c6-9389-882fd3481435.png)
@@ -27,4 +29,4 @@ Tensors are a type of data structure used in linear algebra, and like vectors an
 
 ### 2.  Back Propagation using Pytorch.
 
-###### Documentation page: https://pytorch.org/
+
